@@ -12,6 +12,8 @@ And I like Rust and documentation.
 
 ---
 
+testing
+
 [**LIVE DEMO**: quickstart-webpack.seed-rs.org](https://quickstart-webpack.seed-rs.org)
 
 Main components:
